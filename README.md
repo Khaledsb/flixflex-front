@@ -27,6 +27,10 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
+```sh
+modify backend endpoint inside .env file example : VUE_APP_API_ENTRYPOINT="http://127.0.0.1:8000/api"
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
